@@ -1,0 +1,20 @@
+{
+  "10014984": {
+    "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ecorp.azcc.gov/EntitySearch/Index\nCall log:\n  - navigating to \"https://ecorp.azcc.gov/EntitySearch/Index\", waiting until \"networkidle\"\n"
+  },
+  "10015737": {
+    "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ecorp.azcc.gov/EntitySearch/Index\nCall log:\n  - navigating to \"https://ecorp.azcc.gov/EntitySearch/Index\", waiting until \"networkidle\"\n"
+  },
+  "10016257": {
+    "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ecorp.azcc.gov/EntitySearch/Index\nCall log:\n  - navigating to \"https://ecorp.azcc.gov/EntitySearch/Index\", waiting until \"networkidle\"\n"
+  },
+  "10020564": {
+    "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ecorp.azcc.gov/EntitySearch/Index\nCall log:\n  - navigating to \"https://ecorp.azcc.gov/EntitySearch/Index\", waiting until \"networkidle\"\n"
+  },
+  "10021665": {
+    "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ecorp.azcc.gov/EntitySearch/Index\nCall log:\n  - navigating to \"https://ecorp.azcc.gov/EntitySearch/Index\", waiting until \"networkidle\"\n"
+  },
+  "10022779": {
+    "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ecorp.azcc.gov/EntitySearch/Index\nCall log:\n  - navigating to \"https://ecorp.azcc.gov/EntitySearch/Index\", waiting until \"networkidle\"\n"
+  }
+}

@@ -1,0 +1,8 @@
+[ERROR] Phoenix, AZ: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Search Address\")")
+
+[ERROR] Tucson, AZ: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Search Address\")")
+
