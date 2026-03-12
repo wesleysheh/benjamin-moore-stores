@@ -666,12 +666,13 @@
     "state": "UT",
     "phone": "(801) 487-1061",
     "email": "CARTERJACKSON@HOTMAIL.COM ;SALTLAKEPAINT@GMAIL.COM",
-    "owner_name": "",
-    "registered_agent": "",
-    "principal_address": "",
+    "owner_name": "Carter Jackson",
+    "registered_agent": "Carter Jackson",
+    "principal_address": "250 W 2100 S STE H, Salt Lake City, UT 84115",
     "business_entity": "",
-    "source": "",
-    "status": "needs_manual"
+    "source": "Utah SOS",
+    "status": "found",
+    "entity_name": "SALT LAKE PAINT & DECORATING"
   },
   "10004703": {
     "store_number": "10004703",
@@ -1352,12 +1353,13 @@
     "state": "UT",
     "phone": "(801) 878-9869",
     "email": "",
-    "owner_name": "",
-    "registered_agent": "",
-    "principal_address": "",
+    "owner_name": "Carter Jackson / CLJ, INC",
+    "registered_agent": "Carter Jackson",
+    "principal_address": "8920 South State Street, Sandy, UT 84070",
     "business_entity": "",
-    "source": "",
-    "status": "needs_manual"
+    "source": "Utah SOS",
+    "status": "found",
+    "entity_name": "SANDY PAINT (DBA of CLJ, INC)"
   },
   "10009670": {
     "store_number": "10009670",
@@ -1366,12 +1368,13 @@
     "state": "UT",
     "phone": "(801) 251-0179",
     "email": "INFO@ROCKYMOUNTAINPAINTS.COM ;F.PINILLA@ROCKYMOUNTAINPAINTS.COM",
-    "owner_name": "",
-    "registered_agent": "",
-    "principal_address": "",
+    "owner_name": "Francisco Pinilla (Pinilla family)",
+    "registered_agent": "FRANCISCO PINILLA",
+    "principal_address": "12072 S TUSCANY CREEK WAY, DRAPER, UT 84020",
     "business_entity": "",
-    "source": "",
-    "status": "needs_manual"
+    "source": "Utah SOS",
+    "status": "found",
+    "entity_name": "ROCKY MOUNTAIN PAINTS & DECOR GROUP LLC"
   },
   "10009719": {
     "store_number": "10009719",
@@ -2753,12 +2756,13 @@
     "state": "UT",
     "phone": "(385) 274-2327",
     "email": "F.PINILLA@ROCKYMOUNTAINPAINTS.COM ;F.PINILLA@ROCKYMOUNTAINPAINTS.COM",
-    "owner_name": "",
-    "registered_agent": "",
-    "principal_address": "",
+    "owner_name": "Francisco Pinilla (Pinilla family)",
+    "registered_agent": "FRANCISCO PINILLA",
+    "principal_address": "12072 S TUSCANY CREEK WAY, DRAPER, UT 84020",
     "business_entity": "",
-    "source": "",
-    "status": "needs_manual"
+    "source": "Utah SOS",
+    "status": "found",
+    "entity_name": "ROCKY MOUNTAIN PAINTS & DECOR GROUP LLC"
   },
   "10018097": {
     "store_number": "10018097",
@@ -2879,12 +2883,13 @@
     "state": "UT",
     "phone": "(385) 993-1032",
     "email": "FAPINILLA@ROCKYMOUNTAINPAINTS.COM ;F.PINILLA@ROCKYMOUNTAINPAINTS.COM",
-    "owner_name": "",
-    "registered_agent": "",
-    "principal_address": "",
+    "owner_name": "Francisco Pinilla (Pinilla family)",
+    "registered_agent": "FRANCISCO PINILLA",
+    "principal_address": "12072 S TUSCANY CREEK WAY, DRAPER, UT 84020",
     "business_entity": "",
-    "source": "",
-    "status": "needs_manual"
+    "source": "Utah SOS",
+    "status": "found",
+    "entity_name": "ROCKY MOUNTAIN PAINTS & DECOR GROUP LLC"
   },
   "10019594": {
     "store_number": "10019594",
