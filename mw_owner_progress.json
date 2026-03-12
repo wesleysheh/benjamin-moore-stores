@@ -62,11 +62,11 @@
     "state": "ID",
     "phone": "(208) 726-4589",
     "email": "JEFF@COLORHAUSPAINT.COM ;MORGANUHRIG@YAHOO.COM ;LOBATO-007@HOTMAIL.COM ;VJOTZOY@MSN.COM",
-    "owner_name": "",
+    "owner_name": "Jeff Burrell",
     "registered_agent": "NO AGENT",
     "principal_address": "",
     "business_entity": "COLOR HAUS (135376)",
-    "source": "ID SOS",
+    "source": "LinkedIn / ID SOS (registered agent for Sawtooth Paint)",
     "status": "found"
   },
   "10000322": {
@@ -175,9 +175,9 @@
     "state": "NV",
     "phone": "(775) 461-0998",
     "email": "BILLY@RENOPAINTMART.COM ;BRAD@RENOPAINTMART.COM ;KAYLA@RENOPAINTMART.COM",
-    "status": "not_found",
-    "source": "NV SOS (browser)",
-    "owner_name": "",
+    "status": "found",
+    "source": "PRLog press release - Reno Paint Mart expansion",
+    "owner_name": "Brad Becker / Geoff Dankers",
     "business_entity": "",
     "registered_agent": "",
     "officers": ""
@@ -624,11 +624,11 @@
     "state": "ID",
     "phone": "(208) 788-5346",
     "email": "GERRY@SAWTOOTHPAINT.COM ;JEFF@COLORHAUSPAINT.COM ;RAMONRUBALCAVA0@GMAIL.COM ;SIGIJUAREZ@YAHOO.COM",
-    "owner_name": "",
+    "owner_name": "Jeff S Burrell",
     "registered_agent": "Jeff S Burrell",
     "principal_address": "",
     "business_entity": "SAWTOOTH PAINT AND AIRLESS, INC. (361024)",
-    "source": "ID SOS",
+    "source": "ID SOS registered agent",
     "status": "found"
   },
   "10004306": {
@@ -723,11 +723,11 @@
     "state": "ID",
     "phone": "(208) 878-0856",
     "email": "",
-    "owner_name": "",
+    "owner_name": "Richard B Randklev",
     "registered_agent": "RICHARD B RANDKLEV",
     "principal_address": "",
     "business_entity": "PRO PAINT, INC. (291447)",
-    "source": "ID SOS",
+    "source": "ID SOS registered agent",
     "status": "found"
   },
   "10005601": {
@@ -1339,11 +1339,11 @@
     "state": "ID",
     "phone": "(208) 523-0031",
     "email": "HUTCH@STANSPAINT.COM ;APRIL@STANSPAINT.COM ;APRIL@STANSPAINT.COM ;ROBIN@STANSPAINT.COM ;HUTCH@STANSPAINT.COM ;GREG@STANSPAINT.COM",
-    "owner_name": "",
+    "owner_name": "Robin Gold",
     "registered_agent": "ROBIN  GOLD",
     "principal_address": "",
     "business_entity": "STAN'S PAINT CLINIC, INC. (184251)",
-    "source": "ID SOS",
+    "source": "ID SOS registered agent",
     "status": "found"
   },
   "10009662": {
@@ -1803,11 +1803,11 @@
     "state": "ID",
     "phone": "(208) 634-7665",
     "email": "",
-    "owner_name": "",
+    "owner_name": "Dwight E Baker",
     "registered_agent": "DWIGHT E BAKER",
     "principal_address": "",
     "business_entity": "MAYS LAND & LIVESTOCK, INC. (124690)",
-    "source": "ID SOS",
+    "source": "ID SOS registered agent",
     "status": "found"
   },
   "10013016": {
@@ -1887,11 +1887,11 @@
     "state": "ID",
     "phone": "(208) 556-1164",
     "email": "",
-    "owner_name": "",
+    "owner_name": "Mark A Berger",
     "registered_agent": "Mark A Berger",
     "principal_address": "",
     "business_entity": "BUILDING MAINTENANCE & SUPPLY, INC. (199359)",
-    "source": "ID SOS",
+    "source": "ID SOS registered agent",
     "status": "found"
   },
   "10013332": {
@@ -2944,7 +2944,7 @@
     "registered_agent": "",
     "principal_address": "",
     "business_entity": "",
-    "source": "NV SOS",
+    "source": "not_found",
     "status": "not_found"
   },
   "10020564": {
